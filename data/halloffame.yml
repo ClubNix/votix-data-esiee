@@ -5,70 +5,87 @@ archives:
     candidates:
       - name: Nova
         votes: 243
+        color: "#52c9ed"
       - name: Funky
         votes: 212
+        color: "#881595"
       - name: 2jango
         votes: 0
       - name: Vote null(vote Blanc)
         votes: 11
+        color: "#eeeeee"
   2019:
     winner: DJANGO
     voters: 1278
     candidates:
       - name: DJANGO
         votes: 718
+        color: "#9ece59"
       - name: HORUS
         votes: 507
+        color: "#eac76e"
       - name: FAKE
         votes: 0
       - name: NOIRE
         votes: 53
+        color: "#333333"
   2018:
     winner: FUEGO
     voters: 1052
     candidates:
       - name: FUEGO
         votes: 524
+        color: "#e17e42"
       - name: FROST
         votes: 489
+        color: "#21a3f9"
       - name: HERA (non éligible)
         votes: 0
       - name: BLANC (vote null)
         votes: 39
+        color: "#eeeeee"
   2017:
     winner: Macao
     voters: 441
     candidates:
       - name: Macao
         votes: 262
+        color: "#57623f"
       - name: Cat'sumi (non éligible)
         votes: 0
       - name: Koopa (non éligible)
         votes: 0
       - name: Blanc
         votes: 179
+        color: "#eeeeee"
   2016:
     winner: Lagoon
     voters: 1046
     candidates:
       - name: Lagoon
         votes: 547
+        color: "#86273d"
       - name: Helios
         votes: 438
+        color: "#6d071c"
       - name: Incloser (non éligible)
         votes: 0
       - name: Ivoire (blanc)
         votes: 61
+        color: "#FFFFF0"
   2015:
     winner: ZEPHYR
     voters: 1027
     candidates:
       - name: ZEPHYR
         votes: 476
+        color: "#5ca5d0"
       - name: MOJO
         votes: 461
+        color: "#d43049"
       - name: COPIE BLANCHE
         votes: 90
+        color: "#eeeeee"
 
   2014:
     winner: Ferus
@@ -76,89 +93,117 @@ archives:
     candidates:
       - name: Ferus
         votes: 525
+        color: "#34499a"
       - name: Pizero
         votes: 311
+        color: "#87161d"
       - name: Blanc
         votes: 90
+        color: "#eeeeee"
   2013:
     winner: Huguette
     voters: 827
     candidates:
       - name: Huguette
         votes: 449
+        color: "#333333"
       - name: eXprim'
         votes: 335
+        color: "#f03017"
       - name: "#FFFFFF (blanc)"
         votes: 43
+        color: "#cccccc"
   2012:
     winner: Osmoz
     voters: 730
     candidates:
       - name: Osmoz
         votes: 394
+        color: "#eebd01"
       - name: Bobby
         votes: 184
+        color: '#fe1700'
       - name: Pulse
         votes: 139
+        color: '#394fff'
       - name: vote blanc
         votes: 13
+        color: "#eeeeee"
   2011:
     winner: Illégal
     voters: 284
     candidates:
       - name: Illégal
         votes: 153
+        color: '#ff1013'
       - name: Pour aller danser le Jerk
         votes: 77
+        color: '#cccccc'
       - name: Blanc
         votes: 54
+        color: "#eeeeee"
   2010:
     winner: ExtaZ
     voters: 390
     candidates:
-      - name: Narvalo (Blanc)
-        votes: 79
-      - name: Ali Baba (Blanc)
-        votes: 52
       - name: ExtaZ
         votes: 246
+        color: "#ff2412"
+      - name: Narvalo (Blanc)
+        votes: 79
+        color: "#d28261"
+      - name: Ali Baba (Blanc)
+        votes: 52
+        color: '#cccccc'
       - name: Blanc cassé
         votes: 13
+        color: "#fefee2"
   2009:
     winner: Epik
     voters: 287
     candidates:
       - name: Epik
         votes: 139
+        color: "#bb3687"
       - name: Vote orange
         votes: 148
+        color: "#ff7f00"
   2008:
     winner: PUTCH
     voters: 461
     candidates:
-      - name: IMPACT
-        votes: 153
       - name: PUTCH
         votes: 274
+        color: "#fdb8f1"
+      - name: IMPACT
+        votes: 153
+        color: "#841531"
       - name: ORANGE (vote nul)
         votes: 34
+        color: "#ff7f00"
   2007:
     winner: ESIEENCE
     voters: 467
     candidates:
       - name: ESIEENCE
         votes: 306
+        color: "#ffac01"
       - name: ZONE 51
         votes: 108
+        color: "#4A4A44"
       - name: VERT(pour changer du blanc)
         votes: 53
+        color: "#79BD9A"
   2006:
     winner: Atiz
     voters: 466
     candidates:
       - name: Atiz
         votes: 274
+        color: "#760F00"
       - name: Cowabunga
         votes: 184
+        color: "#F8CC7F"
       - name: Blanc
         votes: 8
+        color: "#eeeeee"
