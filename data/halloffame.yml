@@ -1,5 +1,6 @@
 archives:
   2020:
+    year: 2020
     winner: Nova
     voters: 466
     candidates:
@@ -23,6 +24,7 @@ archives:
         electable: false
         votable: true
   2019:
+    year: 2019
     winner: DJANGO
     voters: 1278
     candidates:
@@ -46,6 +48,7 @@ archives:
         electable: false
         votable: true
   2018:
+    year: 2018
     winner: FUEGO
     voters: 1052
     candidates:
@@ -69,6 +72,7 @@ archives:
         electable: false
         votable: true
   2017:
+    year: 2017
     winner: Macao
     voters: 441
     candidates:
@@ -91,6 +95,7 @@ archives:
         electable: false
         votable: true
   2016:
+    year: 2016
     winner: Lagoon
     voters: 1046
     candidates:
@@ -114,6 +119,7 @@ archives:
         electable: false
         votable: true
   2015:
+    year: 2015
     winner: ZEPHYR
     voters: 1027
     candidates:
@@ -134,6 +140,7 @@ archives:
         votable: true
 
   2014:
+    year: 2014
     winner: Ferus
     voters: 926
     candidates:
@@ -153,6 +160,7 @@ archives:
         electable: false
         votable: true
   2013:
+    year: 2013
     winner: Huguette
     voters: 827
     candidates:
@@ -172,6 +180,7 @@ archives:
         electable: false
         votable: true
   2012:
+    year: 2012
     winner: Osmoz
     voters: 730
     candidates:
@@ -196,6 +205,7 @@ archives:
         electable: false
         votable: true
   2011:
+    year: 2011
     winner: Illégal
     voters: 284
     candidates:
@@ -215,6 +225,7 @@ archives:
         electable: false
         votable: true
   2010:
+    year: 2010
     winner: ExtaZ
     voters: 390
     candidates:
@@ -239,6 +250,7 @@ archives:
         electable: false
         votable: true
   2009:
+    year: 2009
     winner: Epik
     voters: 287
     candidates:
@@ -253,6 +265,7 @@ archives:
         electable: false
         votable: true
   2008:
+    year: 2008
     winner: PUTCH
     voters: 461
     candidates:
@@ -272,6 +285,7 @@ archives:
         electable: false
         votable: true
   2007:
+    year: 2007
     winner: ESIEENCE
     voters: 467
     candidates:
@@ -291,6 +305,7 @@ archives:
         electable: false
         votable: true
   2006:
+    year: 2006
     winner: Atiz
     voters: 466
     candidates:
