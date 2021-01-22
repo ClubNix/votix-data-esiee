@@ -6,14 +6,22 @@ archives:
       - name: Nova
         votes: 243
         color: "#52c9ed"
+        electable: true
+        votable: true
       - name: Funky
         votes: 212
         color: "#881595"
+        electable: true
+        votable: true
       - name: 2jango
         votes: 0
+        electable: false
+        votable: false
       - name: Vote null(vote Blanc)
         votes: 11
         color: "#eeeeee"
+        electable: false
+        votable: true
   2019:
     winner: DJANGO
     voters: 1278
@@ -21,14 +29,22 @@ archives:
       - name: DJANGO
         votes: 718
         color: "#9ece59"
+        electable: true
+        votable: true
       - name: HORUS
         votes: 507
         color: "#eac76e"
+        electable: true
+        votable: true
       - name: FAKE
         votes: 0
+        electable: false
+        votable: false
       - name: NOIRE
         votes: 53
         color: "#333333"
+        electable: false
+        votable: true
   2018:
     winner: FUEGO
     voters: 1052
@@ -36,14 +52,22 @@ archives:
       - name: FUEGO
         votes: 524
         color: "#e17e42"
+        electable: true
+        votable: true
       - name: FROST
         votes: 489
         color: "#21a3f9"
+        electable: true
+        votable: true
       - name: HERA (non éligible)
         votes: 0
+        electable: false
+        votable: false
       - name: BLANC (vote null)
         votes: 39
         color: "#eeeeee"
+        electable: false
+        votable: true
   2017:
     winner: Macao
     voters: 441
@@ -51,13 +75,21 @@ archives:
       - name: Macao
         votes: 262
         color: "#57623f"
+        electable: true
+        votable: true
       - name: Cat'sumi (non éligible)
         votes: 0
+        electable: false
+        votable: false
       - name: Koopa (non éligible)
         votes: 0
+        electable: false
+        votable: false
       - name: Blanc
         votes: 179
         color: "#eeeeee"
+        electable: false
+        votable: true
   2016:
     winner: Lagoon
     voters: 1046
@@ -65,14 +97,22 @@ archives:
       - name: Lagoon
         votes: 547
         color: "#86273d"
+        electable: true
+        votable: true
       - name: Helios
         votes: 438
         color: "#6d071c"
+        electable: true
+        votable: true
       - name: Incloser (non éligible)
         votes: 0
+        electable: false
+        votable: false
       - name: Ivoire (blanc)
         votes: 61
         color: "#FFFFF0"
+        electable: false
+        votable: true
   2015:
     winner: ZEPHYR
     voters: 1027
@@ -80,12 +120,18 @@ archives:
       - name: ZEPHYR
         votes: 476
         color: "#5ca5d0"
+        electable: true
+        votable: true
       - name: MOJO
         votes: 461
         color: "#d43049"
+        electable: true
+        votable: true
       - name: COPIE BLANCHE
         votes: 90
         color: "#eeeeee"
+        electable: false
+        votable: true
 
   2014:
     winner: Ferus
@@ -94,12 +140,18 @@ archives:
       - name: Ferus
         votes: 525
         color: "#34499a"
+        electable: true
+        votable: true
       - name: Pizero
         votes: 311
         color: "#87161d"
+        electable: true
+        votable: true
       - name: Blanc
         votes: 90
         color: "#eeeeee"
+        electable: false
+        votable: true
   2013:
     winner: Huguette
     voters: 827
@@ -107,12 +159,18 @@ archives:
       - name: Huguette
         votes: 449
         color: "#333333"
+        electable: true
+        votable: true
       - name: eXprim'
         votes: 335
         color: "#f03017"
+        electable: true
+        votable: true
       - name: "#FFFFFF (blanc)"
         votes: 43
         color: "#cccccc"
+        electable: false
+        votable: true
   2012:
     winner: Osmoz
     voters: 730
@@ -120,15 +178,23 @@ archives:
       - name: Osmoz
         votes: 394
         color: "#eebd01"
+        electable: true
+        votable: true
       - name: Bobby
         votes: 184
         color: '#fe1700'
+        electable: true
+        votable: true
       - name: Pulse
         votes: 139
         color: '#394fff'
+        electable: true
+        votable: true
       - name: vote blanc
         votes: 13
         color: "#eeeeee"
+        electable: false
+        votable: true
   2011:
     winner: Illégal
     voters: 284
@@ -136,12 +202,18 @@ archives:
       - name: Illégal
         votes: 153
         color: '#ff1013'
+        electable: true
+        votable: true
       - name: Pour aller danser le Jerk
         votes: 77
         color: '#cccccc'
+        electable: false
+        votable: true
       - name: Blanc
         votes: 54
         color: "#eeeeee"
+        electable: false
+        votable: true
   2010:
     winner: ExtaZ
     voters: 390
@@ -149,15 +221,23 @@ archives:
       - name: ExtaZ
         votes: 246
         color: "#ff2412"
+        electable: true
+        votable: true
       - name: Narvalo (Blanc)
         votes: 79
         color: "#d28261"
+        electable: false
+        votable: true
       - name: Ali Baba (Blanc)
         votes: 52
         color: '#cccccc'
+        electable: false
+        votable: true
       - name: Blanc cassé
         votes: 13
         color: "#fefee2"
+        electable: false
+        votable: true
   2009:
     winner: Epik
     voters: 287
@@ -165,9 +245,13 @@ archives:
       - name: Epik
         votes: 139
         color: "#bb3687"
+        electable: true
+        votable: true
       - name: Vote orange
         votes: 148
         color: "#ff7f00"
+        electable: false
+        votable: true
   2008:
     winner: PUTCH
     voters: 461
@@ -175,12 +259,18 @@ archives:
       - name: PUTCH
         votes: 274
         color: "#fdb8f1"
+        electable: true
+        votable: true
       - name: IMPACT
         votes: 153
         color: "#841531"
+        votable: true
+        electable: false
       - name: ORANGE (vote nul)
         votes: 34
         color: "#ff7f00"
+        electable: false
+        votable: true
   2007:
     winner: ESIEENCE
     voters: 467
@@ -188,12 +278,18 @@ archives:
       - name: ESIEENCE
         votes: 306
         color: "#ffac01"
+        electable: true
+        votable: true
       - name: ZONE 51
         votes: 108
         color: "#4A4A44"
+        electable: false
+        votable: true
       - name: VERT(pour changer du blanc)
         votes: 53
         color: "#79BD9A"
+        electable: false
+        votable: true
   2006:
     winner: Atiz
     voters: 466
@@ -201,9 +297,15 @@ archives:
       - name: Atiz
         votes: 274
         color: "#760F00"
+        electable: true
+        votable: true
       - name: Cowabunga
         votes: 184
         color: "#F8CC7F"
+        electable: true
+        votable: true
       - name: Blanc
         votes: 8
         color: "#eeeeee"
+        electable: false
+        votable: true

@@ -11,4 +11,4 @@
   <a href="https://www.clubnix.fr/" alt="Club*Nix"><img src="https://img.shields.io/badge/A%20project%20-Club%2ANix-7ef80b.svg" /></a>
 </p>
 
-[Historique des résultats Votix](notebooks/10-resultats-elections-bde.ipynb)
+[Historique des résultats Votix](notebooks/010-resultats-elections-bde.ipynb)
