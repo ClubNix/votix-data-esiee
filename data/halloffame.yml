@@ -1,4 +1,24 @@
 archives:
+  2021:
+    year: 2021
+    winner: Xanthos
+    voters: 433
+    candidates:
+      - name: Xanthos
+        votes: 197
+        color: "#789edd"
+        electable: true
+        votable: true
+      - name: HoldUp
+        votes: 162
+        color: "#1d1d1d"
+        electable: true
+        votable: true
+      - name: Encore Nova (vote blanc)
+        votes: 6
+        color: "#eeeeee"
+        electable: false
+        votable: true
   2020:
     year: 2020
     winner: Nova
