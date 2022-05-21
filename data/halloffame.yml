@@ -1,4 +1,29 @@
 archives:
+  2022:
+    year: 2022
+    winner: Sparrow
+    voters: 539
+    candidates:
+      - name: Sparrow
+        votes: 188
+        color: "#4e009b"
+        electable: true
+        votable: true
+      - name: Fenrir
+        votes: 163
+        color: "#72caf0"
+        electable: true
+        votable: true
+      - name: Rookees
+        votes: 178
+        color: "#8a4041"
+        electable: true
+        votable: true
+      - name: Vote Blanc
+        votes: 10
+        color: "#eeeeee"
+        electable: false
+        votable: true
   2021:
     year: 2021
     winner: Xanthos
