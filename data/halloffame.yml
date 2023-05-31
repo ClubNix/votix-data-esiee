@@ -5,7 +5,7 @@ archives:
     voters: 833
     candidates:
       - name: Peppers
-        vote: 408
+        votes: 408
         color: "#ff0000"
         electable: true
         votable: true
