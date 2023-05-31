@@ -1,4 +1,29 @@
 archives:
+  2023:
+    year: 2023
+    winner: Peppers
+    voters: 833
+    candidates:
+      - name: Peppers
+        vote: 408
+        color: "#ff0000"
+        electable: true
+        votable: true
+      - name: Falkor
+        votes: 100
+        color: "#00ff00"
+        electable: true
+        votable: true
+      - name: Selva
+        votes: 315
+        color: "#808080"
+        electable: true
+        votable: true
+      - name: Vote blanc
+        votes: 10
+        color: "#eeeeee"
+        electable: false
+        votable: true
   2022:
     year: 2022
     winner: Sparrow
