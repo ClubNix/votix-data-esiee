@@ -1,4 +1,29 @@
 archives:
+  2024:
+    year: 2024
+    winner: Atlas
+    voters: 874
+    candidates:
+      - name: Atlas
+        votes: 395
+        color: "#74c4cf"
+        electable: true
+        votable: true
+      - name: Bora
+        votes: 327
+        color: "#3f8e8e"
+        electable: true
+        votable: true
+      - name: Miras
+        votes: 143
+        color: "#ebe2e1"
+        electable: true
+        votable: true
+      - name: Blanc
+        votes: 9
+        color: "#eeeeee"
+        electable: false
+        votable: true
   2023:
     year: 2023
     winner: Peppers
