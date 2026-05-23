@@ -1,4 +1,44 @@
 archives:
+  2026:
+    year: 2026
+    winner: Azur
+    voters: 607
+    candidates:
+      - name: Azur
+        votes: 358
+        color: '#79aee4'
+        electable: true
+        votable: true
+      - name: Feria
+        votes: 227
+        color: '#fcebb7'
+        electable: true
+        votable: true
+      - name: Blanc
+        votes: 22
+        color: '#eeeeee'
+        electable: false
+        votable: true
+  2025:
+    year: 2025
+    winner: Mystik
+    voters: 779
+    candidates:
+      - name: Mystik
+        votes: 436
+        color: '#54191F'
+        electable: true
+        votable: true
+      - name: Luma
+        votes: 327
+        color: '#FFC83F'
+        electable: true
+        votable: true
+      - name: Blanc
+        votes: 16
+        color: '#eeeeee'
+        electable: false
+        votable: true
   2024:
     year: 2024
     winner: Atlas
