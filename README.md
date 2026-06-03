@@ -1,7 +1,7 @@
 # Votix Data for ESIEE Paris
 
 <h1 align="center">
-  <a href="#user-content-------votix--"><img src="https://raw.githubusercontent.com/ClubNix/Votix/master/public/logovotix.jpg" alt="Logo Votix" width="150" height="150"></a>
+  <img src="https://raw.githubusercontent.com/ClubNix/Votix/master/images/votix.png" alt="Logo Votix"></a>
   <br>
   Votix Data by Club*Nix
   <br>
